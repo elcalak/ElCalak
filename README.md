@@ -10,8 +10,8 @@
 <br><br>
 
 - :school: I am a `Mechatronic Engineer` for [Instituto Tecnologico de La Piedad](https://piedad.tecnm.mx/).
-- :technologist: I try to solve all `problems` with these technologies: Python, MicroPython, C/C++, Arduino C, Siemens Ladder.
 - :boom: I have a JCR article, Do you want to read? [JCR](https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/6120).
+- :technologist: I try to solve all `problems` with these technologies: Python, MicroPython, C/C++, Arduino C, Siemens Ladder.
 - :computer: I am a hobby programmer at `Sampling Project`, but I love programming games, video games, and adding new knowledge.
 - :student: I’m currently learning `Data Science`, `AI` and preparing my postgrade in `AI and Data Science`.
 - :nerd_face: Always `learning new things`.
