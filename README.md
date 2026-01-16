@@ -11,13 +11,19 @@
 
 - :school: I am a `Mechatronic Engineer` for [Instituto Tecnologico de La Piedad](https://piedad.tecnm.mx/).
 - :technologist: I try to solve all `problems` with these technologies: Python, MicroPython, C/C++, Arduino C, Siemens Ladder.
+- :boom: I have a JCR article, Do you want to read? [JCR](https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/6120).
 - :computer: I am a hobby programmer at `Sampling Project`, but I love programming games, video games, and adding new knowledge.
 - :student: I’m currently learning `Data Science`, `AI` and preparing my postgrade in `AI and Data Science`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [LinkedIn](www.linkedin.com/in/christopher-linares73).
-- :boom: I have a JCR article, Do you want to read? [JCR](https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/6120)
 <br>
 
+<h1 aling="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Sampling+Proyect+Current+Status" alt="Typing SVG" /></a></h1>
+  <p align="center">
+    <img src="https://github.com/elcalak/Sampling/blob/PyshicControl/Sampling%20proyect%20diagram.png" width="900">
+</p>
+<h1 aling="center">
 <!---
 - 👋 Hi, I’m @ElCalak
 - ✨ I’m Mechatronic engineer
