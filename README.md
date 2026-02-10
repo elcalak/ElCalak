@@ -19,9 +19,9 @@
 <br>
 
 <h1 aling="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E78F7&center=true&vCenter=true&width=435&lines=Sampling+Project+Current+Status" alt="Typing SVG" /></a><h1 aling="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E78F7&center=true&vCenter=true&width=435&lines=Sampling+Proyect+Current+Status" alt="Typing SVG" /></a><h1 aling="center">
   <p align="center">
-    <img src="https://github.com/elcalak/ElCalak/blob/main/Sampling%20proyect%20diagram.png" width="900">
+    <img src="[https://github.com/elcalak/ElCalak/blob/main/Sampling%20proyect%20diagram.png](https://github.com/elcalak/Sampling/blob/BanksControl/Sampling%20proyect%20diagram.png?raw=true)" width="900">
 </p>
 <!---
 - 👋 Hi, I’m @ElCalak
