@@ -12,8 +12,8 @@
 - :school: I am a `Mechatronic Engineer` for [Instituto Tecnologico de La Piedad](https://piedad.tecnm.mx/).
 - :boom: I have a JCR article, Do you want to read? [JCR](https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/6120).
 - :technologist: I try to solve all `problems` with these technologies: Python, MicroPython, C/C++, Arduino C, Siemens Ladder.
-- :computer: I am a hobby programmer at [`Sampling Project`](https://github.com/elcalak/Sampling), but I love programming games, video games, and adding new knowledge.
-- :student: I’m currently learning `Data Science`, `AI` and preparing my postgrade in `AI and Data Science`.
+- :computer: I am a hobby programmer at [`Sampling Proyect`](https://github.com/elcalak/Sampling), but I love programming games, video games, and adding new knowledge.
+- :student: I’m currently learning `Data Science`, `AI` and preparing my postgrade in `Computer Science`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [LinkedIn](www.linkedin.com/in/christopher-linares73).
 <br>
